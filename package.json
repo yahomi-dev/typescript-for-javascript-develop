@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yahomi-dev/typescript-for-javascript-develop/issues"
   },
-  "homepage": "https://github.com/yahomi-dev/typescript-for-javascript-develop#readme"
+  "homepage": "https://github.com/yahomi-dev/typescript-for-javascript-develop#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
 }
