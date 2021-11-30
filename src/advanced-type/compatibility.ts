@@ -39,4 +39,4 @@ class Person {
 let me: Animal;
 me = new Person(43, 'Ham');
 
-console.log(me);
+console.log({ me });
